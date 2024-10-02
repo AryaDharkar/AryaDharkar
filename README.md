@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryaDharkar
 - 👀 I’m interested in web development, DSA and new tech :)
-- 🌱 I’m currently learning express and DB designing. (I work with MERN and have built small-scale end-to-end apps)
+- 🌱 I’m currently learning how to learn. And AWS too I guess :)
 - 💞️ I’m looking to collaborate on websites that surprise and help people. Hit me up with your ideas on my socials
 - 📫 How to reach me? | linkedin- www.linkedin.com/in/aryadharkar | twitter- https://x.com/aryadharkar
 - 😄 Pronouns: I'm him XD
